@@ -1,0 +1,21 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+.letterA {
+  color: #f72f2a;
+}
+.letterN {
+  color: #f45bec;
+}
+.letterE {
+  color: #3df244;
+}
+
+.letterT {
+  color: #f23b90;
+}
