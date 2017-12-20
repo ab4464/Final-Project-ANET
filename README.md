@@ -66,3 +66,10 @@ The font we want to be the same, although identifying titles and headers accordi
 Users will be able to see their profile and academic interests with a click of a button. They can also search for other users by name or by department. In the future, we can create a matching profile tool to match user's interests. Users will be able to click their current contact's icon and be directed to their profiles where instant messaging will be an option.
 
 
+![wireframes](public/wireframes/Slide1.png)
+![wireframes](public/wireframes/Slide2.png)
+![wireframes](public/wireframes/Slide3.png)
+![wireframes](public/wireframes/Slide4.png)
+![wireframes](public/wireframes/Slide5.png)
+![wireframes](public/wireframes/Slide6.png)
+![wireframes](public/wireframes/Slide7.png)
